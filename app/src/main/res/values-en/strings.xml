@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello Word </string>
+    <string name="Titulo">hello interesting world</string>
+    <string name="Texto">is my text to app</string>
+</resources>
