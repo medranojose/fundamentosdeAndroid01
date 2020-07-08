@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // este es un mensaje de prueba para hacer commit
+        // segundo comentario
     }
 }
